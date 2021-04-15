@@ -8,4 +8,4 @@ Unit tests are included:
 2. `green clock_hands_test.py` to run tests
 3. Set `invalid_input_tests_disabled` flag to `False` to disable bonus tests
 
-###BONUS: return None on invalid input
+### BONUS: return None on invalid input
